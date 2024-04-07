@@ -17,6 +17,7 @@
 10.26 -> 10.3
 ```
 <b>NOTE:</b> All upper formula produces a string as final result. Can not be sorted as an integer. To sort as an integer, select measure under "measure tools" section, select `dynamic` in `format` dropdown.<br/>
+**Important Note:** `#` is for optional place holder and `0` is compulsory place holder. 
 5. `0.0`: Produces integer
 ```
 -532.00 -> -532
